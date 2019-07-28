@@ -1,1 +1,1 @@
-# hopkins-ds
+# datasciencecoursera
